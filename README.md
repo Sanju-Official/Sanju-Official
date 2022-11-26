@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<div align="center"><img src="https://profile-counter.glitch.me/ravindu01manoj/count.svg" /><br>Profile Viewers</div>
+<div align="center"><img src="https://profile-counter.glitch.me/Sanju-Official/count.svg" /><br>Profile Viewers</div>
 <!---
 Sanju-Official/Sanju-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
